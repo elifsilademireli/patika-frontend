@@ -1,0 +1,57 @@
+.block1{
+
+    background-color: rgb(237, 234, 234);
+    width: 1300px;
+    height: 100px;
+    position: relative;
+    margin:auto;
+    text-align:center;
+    border-spacing: 2px;
+    display: flow-root;
+
+}
+
+.boxes{
+    margin:auto;
+    width: 1300px;
+}
+
+.box1{
+    background-color: #7EE5DA;
+    width: 37%;
+    height: 80px;
+    text-align: center;
+    margin-top: 7px;
+    float: left;
+    display: inline-block;
+    margin: auto;
+}
+
+.box2{
+    background-color: #70ccc2;
+    width: 18%;
+    height: 80px;
+    float: left;
+    text-align: center;
+    font-size: smaller;
+    margin-top: 7px;
+    display: inline-block;
+    margin: auto;
+    
+}
+
+.box3{
+    background-color: #62b3aa;
+    width: 45%;
+    height: 80px;
+    float: left;
+    text-align: center;
+    font-size: small;
+    margin-top: 7px;
+    display: inline-block;
+    margin: auto;
+}
+
+.note{
+    text-align: center;
+}
